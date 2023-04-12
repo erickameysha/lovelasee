@@ -20,7 +20,7 @@
     "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.0"
   },
-  "homepage": "https://erickameysha.github.io/lovelase",
+  "homepage": "https://github.com/erickameysha/lovelasee",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
